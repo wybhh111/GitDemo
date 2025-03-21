@@ -1,6 +1,6 @@
 # 欧文的自我介绍
 
-<img src="https://github.com/Wyb1123/Gitdem0/blob/master/images/5cc478ca9382542adb6a02242e53159.png" width="200" alt="TOM形象">
+<img src="https://github.com/wybhh111/GitDemo/blob/master/images/_20241024162514.jpg" width="200" alt="TOM形象">
 
 大家好，我是**TOM**，我的身份是猫。以下是我的自我介绍：
 
@@ -20,7 +20,7 @@
 ### 重要坐标
 - 🏠 **住址**: [比奇堡珊瑚丘124号](https://baike.baidu.com/item/%E6%AF%94%E5%A5%87%E5%A0%A1/8275168) 
 - 🏢 **工作单位**: [蟹堡王餐厅](https://baike.baidu.com/item/%E8%9F%B9%E5%A0%A1%E7%8E%8B/8043124)
-
+<img src="https://github.com/wybhh111/GitDemo/blob/master/images/3584.jpg_wh860.jpg" width="200" alt="TOM形象">
 ### 日常作息表
 | 时间       | 事项                  |
 |------------|---------------------- |
@@ -43,7 +43,7 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-<img src="https://github.com/Wyb1123/Gitdem0/blob/master/images/df6257d24e11ef8d14031f728fe799d.png" width="800" alt="截图一">
+<img src="https://github.com/wybhh111/GitDemo/blob/master/images/2025-03-21%20211752.png" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://github.com/Wyb1123/Gitdem0/blob/master/images/7d7f6afafaed00ade8f2abe23db0325.png" width="800" alt="截图二">
+<img src="https://github.com/wybhh111/GitDemo/blob/master/images/2025-03-21%20212410.png" width="800" alt="截图二">
