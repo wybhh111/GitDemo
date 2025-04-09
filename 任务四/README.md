@@ -70,4 +70,4 @@ print("特征矩阵:\n", features.toarray())
 # 样本平衡处理
 ![3](https://github.com/wybhh111/GitDemo/blob/master/images/2025-04-09%20233656.png)
 # 增加模型评估指标
-![4](https://github.com/user-attachments/assets/c5ea42fa-daee-497f-8054-615283ecd3e2)
+![4](https://github.com/wybhh111/GitDemo/blob/master/images/2025-04-09%20233715.png)
