@@ -68,6 +68,6 @@ print("特征矩阵:\n", features.toarray())
 # 高频词/TF-IDF两种特征模式的切换方法
 ### 特征选择，监测模型在训练集和验证集上的表现，选择适合的特征方法。如果需要更强调文本的主题和语义信息，可以选择TF-IDF。混合使用，在某些情况下可以同时提取高频词和TF-IDF特征，将两者组合成训练集的特征。例如，可以将高频词作为基础特征，TF-IDF作为权重调整的特征，从而增强模型的表现。模型调优，在项目中进行实验，通过交叉验证评估不同特征提取方法的效果，选择最佳方案。动态切换，构建一个动态特征提取管道，根据输入数据的特点自动切换使用高频词还是TF-IDF。
 # 样本平衡处理
-![3](https://github.com/user-attachments/assets/6fc7d197-68ba-41d6-a505-cae0505b7a24)
+![3](https://github.com/wybhh111/GitDemo/blob/master/images/2025-04-09%20233656.png)
 # 增加模型评估指标
 ![4](https://github.com/user-attachments/assets/c5ea42fa-daee-497f-8054-615283ecd3e2)
