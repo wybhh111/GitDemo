@@ -64,7 +64,7 @@ print("特征矩阵:\n", features.toarray())
 ```
 ### 调用 get_feature_names() 获取特征名称并输出，使用 toarray() 方法将特征矩阵转换为稠密数组并输出。
 ![1](https://github.com/user-attachments/assets/6094038f-df88-4583-8baa-0b96d6e6e0d9)
-![2](https://github.com/user-attachments/assets/e8b49baf-053d-4b37-8b1d-a8d508c169cc)
+![2](https://github.com/wybhh111/GitDemo/blob/master/images/2025-04-09%20230017.png)
 # 高频词/TF-IDF两种特征模式的切换方法
 ### 特征选择，监测模型在训练集和验证集上的表现，选择适合的特征方法。如果需要更强调文本的主题和语义信息，可以选择TF-IDF。混合使用，在某些情况下可以同时提取高频词和TF-IDF特征，将两者组合成训练集的特征。例如，可以将高频词作为基础特征，TF-IDF作为权重调整的特征，从而增强模型的表现。模型调优，在项目中进行实验，通过交叉验证评估不同特征提取方法的效果，选择最佳方案。动态切换，构建一个动态特征提取管道，根据输入数据的特点自动切换使用高频词还是TF-IDF。
 # 样本平衡处理
